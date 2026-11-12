@@ -1,0 +1,9 @@
+{
+    "name": "Exuvia",
+    "version_number": "0.10.1",
+    "website_url": "",
+    "description": "In-game skin switcher for Hornet: turn skins on and off from the pause or main menu, no restart. Reads Customizer and Stitchwork/Patchwork skins on its own.",
+    "dependencies": [
+        "silksong_modding-BepInExPack_Silksong-1.0.3"
+    ]
+}
